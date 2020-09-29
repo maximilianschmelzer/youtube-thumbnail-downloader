@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/maximilianschmelzer/youtube-thumbnail-downloader/issues"
   },
-  "homepage": "https://github.com/maximilianschmelzer/youtube-thumbnail-downloader#readme"
+  "homepage": "https://github.com/maximilianschmelzer/youtube-thumbnail-downloader#readme",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
 }
